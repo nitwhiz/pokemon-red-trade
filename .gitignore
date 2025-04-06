@@ -1,0 +1,5 @@
+.idea/
+sameboy/
+rom/
+logs/*
+!logs/.gitkeep
